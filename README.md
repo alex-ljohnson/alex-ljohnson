@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer science and physics
 - 🌱 I’m currently learning Python, C#, Java, Ruby, HTML, CSS and Javascript.
 - 📫 How to reach me: public@transparentbox.uk
-- 📕 I'm currently studying Computer Science at Sheffield University.
+- 📕 I'm currently studying Computer Science at University of Sheffield.
 - ℹ️ Find more information at: [www.transparentbox.uk](https://www.transparentbox.uk)
 
 <!---
